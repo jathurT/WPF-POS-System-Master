@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|e:\\3rd sem\\ee3151 programming project\\wpf-pos-system-master\\wpfapppos1\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\views\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\views\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\views\\managestock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\views\\managestock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\views\\managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\views\\managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\views\\manageproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\views\\manageproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\viewmodels\\manageproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\viewmodels\\manageproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A5E36-D7A0-4419-BD85-7435ED924DAD}|WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1.test\\wpfapppos1.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B1A5E36-D7A0-4419-BD85-7435ED924DAD}|WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj|solutionrelative:wpfapppos1.test\\wpfapppos1.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\viewmodels\\managestaffvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\viewmodels\\managestaffvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\wpfapppos1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F6EE6F-DD0E-41A5-93C8-7ACFFBC2495B}|WpfAppPOS1\\WpfAppPOS1.csproj|solutionrelative:wpfapppos1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\App.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\App.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:15:22.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleWindow.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\SaleWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Views\\SaleWindow.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\SaleWindow.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\Views\\SaleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:14:13.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageStock.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageStock.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Views\\ManageStock.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageStock.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\Views\\ManageStock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:14:03.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Views\\AdminDashboard.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\AdminDashboard.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\Views\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:13:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageProduct.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageProduct.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Views\\ManageProduct.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageProduct.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\Views\\ManageProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:13:45.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\AssemblyInfo.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfAppPOS1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:46:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Models\\Stock.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\Stock.cs",
+              "RelativeToolTip": "WpfAppPOS1\\Models\\Stock.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:25:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Models\\MyDbContext.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "WpfAppPOS1\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:16:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\MainWindow.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:15:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageStaff.xaml",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageStaff.xaml",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Views\\ManageStaff.xaml",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Views\\ManageStaff.xaml",
+              "RelativeToolTip": "WpfAppPOS1\\Views\\ManageStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T14:13:52.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageProductVM.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\ViewModels\\ManageProductVM.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\ViewModels\\ManageProductVM.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\ViewModels\\ManageProductVM.cs",
+              "RelativeToolTip": "WpfAppPOS1\\ViewModels\\ManageProductVM.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAlwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T05:20:04.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\Models\\Product.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\Models\\Product.cs",
+              "RelativeToolTip": "WpfAppPOS1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T05:22:11.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WpfAppPOS1.Test.csproj",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj",
+              "RelativeDocumentMoniker": "WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj",
+              "RelativeToolTip": "WpfAppPOS1.Test\\WpfAppPOS1.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T06:37:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageStaffVM.cs",
+              "DocumentMoniker": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\ViewModels\\ManageStaffVM.cs",
+              "RelativeDocumentMoniker": "WpfAppPOS1\\ViewModels\\ManageStaffVM.cs",
+              "ToolTip": "E:\\3rd Sem\\EE3151 Programming Project\\WPF-POS-System-master\\WpfAppPOS1\\ViewModels\\ManageStaffVM.cs",
+              "RelativeToolTip": "WpfAppPOS1\\ViewModels\\ManageStaffVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:16:24.788Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

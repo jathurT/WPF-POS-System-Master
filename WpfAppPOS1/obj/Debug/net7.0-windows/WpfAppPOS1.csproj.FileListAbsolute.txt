@@ -1,0 +1,241 @@
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.exe
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.deps.json
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.runtimeconfig.json
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.pdb
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\ControlzEx.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Humanizer.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.AssemblyReference.cache
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\AdminDashboard.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageProduct.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStaff.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStock.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\SaleWindow.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\App.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1_MarkupCompile.cache
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1_MarkupCompile.lref
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\App.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\AdminDashboard.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageProduct.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStaff.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStock.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\SaleWindow.baml
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.g.resources
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.AssemblyInfoInputs.cache
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.AssemblyInfo.cs
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.CoreCompileInputs.cache
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.Up2Date
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\refint\WpfAppPOS1.dll
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.pdb
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.genruntimeconfig.cache
+E:\3rd Sem\EE3151 Programming Project\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\ref\WpfAppPOS1.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.exe
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.deps.json
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.runtimeconfig.json
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\WpfAppPOS1.pdb
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\AdminDashboard.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageProduct.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStaff.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStock.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\SaleWindow.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\AdminDashboard.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageProduct.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStaff.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\ManageStock.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\Views\SaleWindow.baml
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.g.resources
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.csproj.Up2Date
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\refint\WpfAppPOS1.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.pdb
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\WpfAppPOS1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\obj\Debug\net7.0-windows\ref\WpfAppPOS1.dll
+C:\Users\ASUS\Desktop\WPF-POS-System-master\WpfAppPOS1\bin\Debug\net7.0-windows\DB\MyDatabase5.1.db
